@@ -1,0 +1,6 @@
+{
+  "password": "KAMPAY_PASSWORD",
+  "jwtPrivateKey": "KAMPAY_JWTPRIVATEKEY",
+  "domain": "KAMPAY_DOMAIN",
+  "db": "KAMPAY_DB"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "kampay-api",
+  "version": "1.0.0",
+  "description": "kampay startup web services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhsanAhanj/kampey-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhsanAhanj/kampey-api/issues"
+  },
+  "homepage": "https://github.com/EhsanAhanj/kampey-api#readme",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "@liara/sdk": "^0.2.2",
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "fawn": "^2.1.5",
+    "fs-extra": "^8.0.1",
+    "helmet": "^3.18.0",
+    "is-url": "^1.2.4",
+    "jsonwebtoken": "^8.5.1",
+    "kavenegar": "^1.1.4",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.13",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1"
+  }
+}

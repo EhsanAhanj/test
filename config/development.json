@@ -1,0 +1,8 @@
+{
+  "name": "kampay-api-development",
+  "db": "localhost/kampay",
+  "jwtPrivateKey": "PASSWORD",
+  "domain": "http://localhost:3000",
+  "default-avatar": "https://picsum.photos/300",
+  "db-ss": "root:EeV5oTF9YLDL1Qe4hltv8Kpk@s7.liara.ir:32031/kampay"
+}
